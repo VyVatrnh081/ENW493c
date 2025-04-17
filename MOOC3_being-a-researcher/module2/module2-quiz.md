@@ -108,8 +108,11 @@ A complete theory for a given phenomenon can predict impossible manifestations.
 The algorithm may both find a name that is not a person’s name and may fail to find the occurrence of certain person’s names. In this case the algorithm is simply an unacceptable approximation.
 
 ``The algorithm finds a name that is not a person’s name. This is a false positive.``
+_(Thuật toán tìm thấy một cái tên không phải là tên của một người. Đây là một kết quả dương tính giả.)_
 
 ``The algorithm may find a name that is not a person’s name and may fail to find the occurrence of certain person’s names. In this case the algorithm can generate both false positives and false negatives.``
+_(Thuật toán có thể tìm thấy một cái tên không phải là tên của một người và có thể không tìm thấy sự xuất hiện của một số tên nhất định. Trong trường hợp này, thuật toán có thể tạo ra cả kết quả dương tính giả và âm tính giả.)_
+
 
 The algorithm does not find the occurrence of certain person’s names. This is a false positive.
 
@@ -139,7 +142,10 @@ A case study is a study of a legal action.
 A case study never requires threat analysis.
 
 ``Threat analysis should be applied to assess internal and external validity of the conclusions drawn from a case study.``
+_(Phân tích mối đe dọa nên được áp dụng để đánh giá tính hợp lệ bên trong và bên ngoài của các kết luận rút ra từ nghiên cứu tình huống.)_
+
 
 ``A case study may concern the use of a proposed new artifact or method in a given context to validate its usability in a practical setting.``
+_(Nghiên cứu tình huống có thể liên quan đến việc sử dụng một hiện vật hoặc phương pháp mới được đề xuất trong một bối cảnh nhất định để xác nhận tính khả dụng của nó trong bối cảnh thực tế.)_
 
 A case study is never applied in research. It is only used as a didactic aid.
