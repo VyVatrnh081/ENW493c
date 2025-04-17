@@ -1,11 +1,11 @@
 ### 1. Question 1
 ### Search engines like Google.com and Yahoo.com are good places to start your academic research.
 ``True``
+_(Correct:
+Instead, use Google Scholar, a library database, or a reliable news source)_
 
 False
 
-_Correct:
-Instead, use Google Scholar, a library database, or a reliable news source._
 ### 2. Question 2
 ### Which of the following is a good search term for this topic:
 
@@ -13,6 +13,8 @@ Instead, use Google Scholar, a library database, or a reliable news source._
 
 
 ``financial crisis of 2008``
+_(Correct:
+This is more narrowed than just searching for the economy.)_
 
 raising interest rates
 
@@ -21,15 +23,14 @@ economics
 home prices and the economy
 
 
-_Correct:
-This is more narrowed than just searching for the economy._
 
 ### 3. Question 3
 ### According to the lecture, where is the best place to look for sources for a research paper?
 
 
 ``library databases``
-
+_(Correct:
+This is the best place to find reliable academic sources.)_
 
 Google Scholar
 
@@ -38,8 +39,7 @@ Google Scholar
 Google
 
 
-_Correct:
-This is the best place to find reliable academic sources._
+
 
 ### 4. Question 4
 ### All of the following are questions to ask when determining reliability of a a source EXCEPT which one?
@@ -58,14 +58,12 @@ What is the purpose of the source?
 
 
 ``How long is the source?``
+_(Correct:
+This is not important.)_
 
 
 
 Is the source biased?
-
-
-_Correct:
-This is not important._
 
 
 ### 5. Question 5
@@ -73,7 +71,8 @@ This is not important._
 
 
 ``Think of a research question.``
-
+_(Correct:
+This is the first thing to do to begin your research.)_
 
 
 Make an outline.
@@ -83,8 +82,7 @@ Make an outline.
 Write the thesis statement.
 
 
-_Correct:
-This is the first thing to do to begin your research._
+
 
 
 ### 6. Question 6
@@ -104,21 +102,17 @@ They are complex.
 
 
 ``They are worth 150 pts.``
-
-
-_Correct:
-This depends on the teacher._
+_(Correct:
+This depends on the teacher.)_
 
 ### 7. Question 7
 ### True or False? Every research assignment you will be assigned in college will have different requirements.
 
 
 ``True``
-
+_(Correct:
+Different teachers will have different requirements.)_
 
 
 False
 
-
-_Correct:
-Different teachers will have different requirements._
