@@ -7,10 +7,8 @@ True
 
 
 ``False``
-
-
-_Correct:
-Don't use transitions in your research paper. They are informal._
+_(Correct:
+Don't use transitions in your research paper. They are informal.)_
 
 
 ### 2. Question 2
@@ -22,7 +20,8 @@ dynamic, prohibit, identical
 
 
 ``crash, cop, messy``
-
+_(Correct:
+These words are informal. Think of an academic word to replace each one.)_
 
 
 facilitate, prime, transit
@@ -32,8 +31,7 @@ facilitate, prime, transit
 evolve, generate, alter
 
 
-_Correct:
-These words are informal. Think of an academic word to replace each one._
+
 
 
 ### 3. Question 3
@@ -46,7 +44,5 @@ True
 
 
 ``False``
-
-
-_Correct:
-Paragraphs need to start with a topic sentence of your own point. Then use statistics to support that point_
+_(Correct:
+Paragraphs need to start with a topic sentence of your own point. Then use statistics to support that point.)_
