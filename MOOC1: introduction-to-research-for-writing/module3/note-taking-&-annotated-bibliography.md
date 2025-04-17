@@ -17,7 +17,5 @@ True
 
 
 ``False``
-
-
-_Correct:
-Some might do this, but you usually have a choice and will have have to narrow the topic._
+_(Correct:
+Some might do this, but you usually have a choice and will have have to narrow the topic.)_
