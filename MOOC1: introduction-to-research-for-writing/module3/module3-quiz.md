@@ -7,10 +7,8 @@ True
 
 
 ``False``
-
-
-_Correct:
-Write down phrases to help you remember what the article is about._
+_(Correct:
+Write down phrases to help you remember what the article is about.)_
 
 ### 2. Question 2
  
@@ -21,10 +19,8 @@ True
 
 
 ``False``
-
-
-_Correct:
-Only students at that school can access the databases with a school account._
+_(Correct:
+Only students at that school can access the databases with a school account.)_
 
 
 ### 3. Question 3
@@ -35,11 +31,11 @@ Only students at that school can access the databases with a school account._
 
 
 
-popular sources _like Wikipedia.org, news.bbc.co.uk, mytimes.com_
+popular sources _(like Wikipedia.org, news.bbc.co.uk, mytimes.com)_
 
 
 
-news sources _like baodantri.com, fpt.edu_
+news sources _(like baodantri.com, fpt.edu)_
 
 
 
@@ -72,10 +68,8 @@ True
 
 
 ``False``
-
-
-_Correct:
-Any kind of outline can help you plan._
+_(Correct:
+Any kind of outline can help you plan.)_
 
 
 ### 6. Question 6
@@ -87,7 +81,8 @@ The tooth fairy and Santa Claus are imaginary characters for children.
 
 
 ``The U.S. government should require that all companies pay men and women the same amount of money for equal work.``
-
+_(Correct:
+This is specific, and some business owners disagree with this because of economic reasons. Therefore, it would be a good thesis statement.)_
 
 
 It's hotter in the oceans now than it was a few years ago, so something should be done about climate change.
@@ -97,8 +92,6 @@ It's hotter in the oceans now than it was a few years ago, so something should b
 Terrorism is really awful, so governments should prevent it. _(chủ nghĩa khủng bố thực sự khủng khiếp)_
 
 
-_Correct:
-This is specific, and some business owners disagree with this because of economic reasons. Therefore, it would be a good thesis statement._
 
 
 ### 7. Question 7
@@ -110,7 +103,5 @@ True
 
 
 ``False``
-
-
-_Correct:
-It depends on the teacher and the class. Any format could be required._
+_(Correct:
+It depends on the teacher and the class. Any format could be required.)_
