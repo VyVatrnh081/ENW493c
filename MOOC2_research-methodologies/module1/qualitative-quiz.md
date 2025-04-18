@@ -1,7 +1,7 @@
 ### 1. Question 1
 ### Fill in the missing word.
 
-### Due to the ___________ nature of qualitative research, there is no agreed process in designing a qualitative research project. To this end, researchers can use certain design principles in designing their qualitative projects. 
+### Due to the ___________ nature of _qualitative research_, there is no agreed process in designing a qualitative research project. To this end, researchers can use certain design principles in designing their qualitative projects. 
 
 
 ``Unstructured``
@@ -27,17 +27,11 @@ Structured
 ### All researchers commence their research with an issue or _________, investigate the relevant empirical evidence and literature to identify relevant research evidence which will help in designing the qualitative questions, collect data and analyse them.
 
 
-Problem  
+``Problem``
 
-
-
-``Solution``
-
-
+Solution
 
 Data set
-
-
 
 Methods
 
@@ -48,7 +42,7 @@ Methods
 
 
 ``Storytelling``
-
+_(Cách trình bày có thể sáng tạo như kể chuyện (storytelling), kịch, thơ… để thể hiện trải nghiệm và ý nghĩa sâu sắc.)_
 
 
 Interviews
