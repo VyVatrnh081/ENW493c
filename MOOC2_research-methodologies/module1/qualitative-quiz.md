@@ -27,9 +27,9 @@ Structured
 ### All researchers commence their research with an issue or _________, investigate the relevant empirical evidence and literature to identify relevant research evidence which will help in designing the qualitative questions, collect data and analyse them.
 
 
-``Problem``
+Problem
 
-Solution
+``Solution``
 
 Data set
 
