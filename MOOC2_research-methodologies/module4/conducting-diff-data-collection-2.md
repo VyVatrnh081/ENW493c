@@ -19,11 +19,11 @@ Stories
 
 
 ### 2. Question 2
-### The combination of both the ___________ and structural descriptions offer the whole essence of the experience with the phenomenon. 
+### The combination of both the ___________ and structural descriptions offer the whole essence of the experience _(bản chất của trải nghiệm)_ with the phenomenon. 
 
 
 ``Textural``
-
+_(textural: what was experienced, structural: how it was experienced)_
 
 
 Natural
@@ -52,14 +52,13 @@ Single
 
 
 ``Intrinsic``
-
+_(an unusual or unique situation)_
 
 
 Extensive
 
 
-Correct
-The correct answer is intrinsic because the intrinsic case study focuses on the case itself due to the fact that the case presents an unusual or unique situation. Such a situation may be to study a customer who is unique or evaluating a marketing programme. 
+ 
 
 
 ### 2. Question 2
@@ -85,8 +84,6 @@ Survey
 Experiment
 
 
-Correct
-The correct answer is C, because the collection of data under a case study methodology, is an extensive process and is based on multiple sources of information including interviews, observations, documentation and audiovisual. 
 
 
 ### 3. Question 3
@@ -97,7 +94,7 @@ Hermeneutical
 
 
 
-Natural  
+Natural
 
 
 
@@ -115,7 +112,7 @@ In depth
 
 ### 4. Question 4
 ### In phenomenology apart from the _________, alternative data collection tools can be observations, journals, reports, and music. 
-
+_(goal of phenomenology: hiểu sâu sắc trải nghiệm cá nhân của người tham gia đối với 1 hiện tượng)_
 
 Experiments
 
@@ -136,8 +133,6 @@ Observations
 Surveys
 
 
-Correct
-The correct answer is A, because in phenomenology apart from the interviews, alternative data collection tools can be observations, journals, reports, and music. 
 
 
 ### 5. Question 5
@@ -163,8 +158,5 @@ Psychological
 Empirical
 
 
-Correct
-The correct answer is textural because in phenomenology the significant statements and themes are used to write a description regarding the experiences of the participants. This is the textural description.
 
-Thematic  
 
