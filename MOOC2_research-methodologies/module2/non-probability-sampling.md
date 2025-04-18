@@ -1,22 +1,14 @@
 ### 1. Question 1
 ### ___________ sampling is a type of non-probability sampling which is also known as chain-referral sampling. As the first step in snowball sampling the market researcher forms a first group of research participants by identifying the individuals who will participate in the systematic investigation.
 
-
 Cluster  
 
-
-
 ``Snowball``
-
-
+_(Snowball sampling là một phương pháp lấy mẫu không xác suất, trong đó người tham gia đầu tiên giới thiệu thêm người khác, tạo ra một chuỗi tham chiếu.)_
 
 Random
 
-
-
 Experimental
-
-
 
 
 
@@ -25,16 +17,11 @@ Experimental
 
 
 ``Refusals``
-
-
+_(từ chối)_
 
 Willingness  
 
-
-
 Follow-ups
-
-
 
 Suggestions
 
@@ -46,15 +33,10 @@ Suggestions
 
 Suggestions 
 
-
-
 Follow ups
-
-
 
 Refusals 
 
-
-
 ``Conversion``
+_(khả năng thuyết phục)_
 
