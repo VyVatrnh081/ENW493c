@@ -1,24 +1,26 @@
 ### 1. Question 1
-### You are asked to review a survey paper. In which of the following dimensions you are not expecting the paper to be particularly strong? Tick one.  
+### You are asked to review a _survey paper_. In which of the following dimensions you are _not expecting_ the paper to be particularly strong? Tick one.  
 
-``Originality``
+``Originality`` _(tính độc đáo)_
+_(Survey paper: tổng hợp, phân tích các nghiên cứu đã có sẵn -> không đưa ra kết quả mới)_
 
 Significance
 
 Rigor
 
 ### 2. Question 2
-### You are asked to review a theoretical research paper. In which of the following quality dimensions you expect the paper to be particularly strong? Tick one.
+### You are asked to review a _theoretical research paper_. In which of the following quality dimensions you _expect_ the paper to be particularly strong? Tick one.
 
 Originality
 
-``Rigor``
+``Rigor`` _(tính chính xác)_
+_(theoretical research paper: bài nghiên cứu lý thuyết, thường liên quan đến mô hình, định lý, chứng minh, v.v. Do đó, yếu tố quan trọng nhất là tính chặt chẽ trong lập luận, công thức và phương pháp. Không chặt chẽ thì lý thuyết sẽ sai lệch hoặc không có giá trị.)_
 
 Significance
 
 
 ### 3. Question 3
-### The following statements are about journal and conference publication. Tick the ones that are valid:
+### The following statements are about journal and conference publication (xuất bản báo chí và hội nghị). Tick the ones that are valid:
 
 ``In certain scientific areas conferences and journals are equally selective and respected publication venues.``
 
@@ -32,13 +34,15 @@ Conference publication has no scientific value. It is only done as a social acti
 
 
 ### 4. Question 4
-### The publication process relies on peer review. Which of the following statements are valid? Tick them.
+### The publication process relies on peer review (quá trình phản biện). Which of the following statements are valid? Tick them.
 
 ``The goal of peer review is to ensure that published results meet certain quality standards.``
+_(đảm bảo kết quả được công bố đạt tiêu chuẩn chất lượng.)_
 
 To reach better insights into a submitted paper, it is advisable that peer review is delegated to close colleagues of the authors, especially those who have been previous collaborators.
 
 ``Peer review is a voluntary service activity done to support the research community.``
+_(hoạt động tình nguyện để hỗ trợ cộng đồng nghiên cứu.)_
 
 To avoid bias, peer reviewers should not be experts in the field of the contribution.
 
