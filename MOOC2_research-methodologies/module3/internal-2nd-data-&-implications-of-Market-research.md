@@ -4,14 +4,9 @@
 
 Metrics  
 
-
-
 ``Satisfaction``
 
-
-
-Appearance
-
+Appearanc
 
 
 Focus
@@ -24,15 +19,9 @@ Focus
 
 ``Internal``
 
-
-
 External
 
-
-
 Mixed
-
-
 
 Experimental
 
@@ -44,15 +33,10 @@ Experimental
 
 Internal
 
-
-
 External
 
-
-
 ``Automated``
-
-
+_(Automated data collection giúp tiết kiệm thời gian và chi phí, rất phù hợp khi nguồn lực bị hạn chế.)_
 
 Manual
 
@@ -63,20 +47,13 @@ Manual
 
 
 ``Datawarehouse`` 
-_(Correct
-The correct answer is a datawarehouse because a datawarehouse includes a collection of different and integrated databases developed in supporting decision making and solving problems. The data which are included in the datawarehouses can be accessed through data mining approaches.)_
+_(Datawarehouse là nơi lưu trữ dữ liệu lớn được tích hợp nhằm hỗ trợ ra quyết định, phân tích dữ liệu thông qua data mining.)_
 
 Warehouse  
 
-
-
 Record  
 
-
-
 Research document
-
-
 
 Syndicated services 
 
@@ -89,23 +66,14 @@ Syndicated services
 
 Customer  
 
-
-
-``Industrial``  
-_(Correct:
-The correct answer is industrial because industrial firms focus on data banks of industrial establishments developed through the direct inquiries of companies, clipping services and corporate reports. Such information and data can be used to assess market potential around geographic areas, define sales territories and decide on the advertising budget.)_
-
+``Industrial`` 
+_(Các công ty công nghiệp sử dụng nguồn dữ liệu từ các doanh nghiệp khác để đánh giá tiềm năng thị trường, phân bổ ngân sách)_
 
 Manufacturing  
 
-
-
 Advertising  
 
-
-
 Consumer   
-
 
 
 
@@ -115,9 +83,7 @@ Consumer
 
 
 ``True``
-_(Correct:
-This is true because audit services focus on the verification of product movement by investigating physical records or performing inventory analysis. Such data are used to measure sales and assess market share and track the performance of new products or services.)_
-
+_(Audit services giúp theo dõi sản phẩm bằng cách kiểm tra kho hoặc hồ sơ, từ đó đo lường doanh số và thị phần.)_
 
 False 
 
@@ -127,26 +93,17 @@ False
 ### Mail diary panels refer to information which comes from households and such information is offered for an extended period of time and in this vein the key informants are required to record behaviour as it takes place.
 
 
-
 Syndicated services
 
 
-
 ``Mail diary panels``
-_(Correct:
-The correct answer is mail diary panels, because mail diary panels refer to information which comes from households and such information is offered for an extended period of time and in this vein the key informants are required to record behaviour as it takes place.)_
-
+_(Đây là dạng nghiên cứu panel, nơi các hộ gia đình ghi lại hành vi của họ trong một thời gian dài để phân tích hành vi tiêu dùng.)_
 
 Industrial services
 
-
-
 Audit services
 
-
-
 Secondary data
-
 
 
 
@@ -156,9 +113,7 @@ Secondary data
 
 
 ``True`` 
-_(Correct:
-This is true because the combination of survey data and databases help the organisation to identify the nature and scope of different customer segments, understand the nature of the factors which influence the needs of customer groups, and reflect on best practices regarding target market decisions.)_
-
+_(Việc kết hợp dữ liệu khảo sát và database cho phép tổ chức hiểu rõ hơn về phân khúc khách hàng và hành vi của họ.)_
 
 False 
 
