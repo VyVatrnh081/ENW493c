@@ -53,7 +53,7 @@ Charisma
 Writing
 
 ``Interpreting``
-_(nhè nghiên cứu phải biết diễn giải và phân tích thông tin)_
+_(nha nghiên cứu phải biết diễn giải và phân tích thông tin)_
 
 Remembering
 
