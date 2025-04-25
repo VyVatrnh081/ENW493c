@@ -88,7 +88,7 @@ _(1: Khoanh vùng mẫu theo tiêu chí, 2: chọn người phù hợp để kh�
 
 
 ``True``
-
+_(tỷ lệ phản hồi cao -> bias sample sẽ giảm độ chênh lệch)_
 False 
 
 
@@ -101,7 +101,8 @@ False
 
 
 ``True`` 
-
+_(Cho phép mỗi người tham gia giới thiệu nhiều người khác - exponential (theo cấp số nhân)
+Nhưng chỉ chọn lọc một số cá nhân phù hợp theo tiêu chí đã đặt ra - discriminative)_
 
 False 
 
