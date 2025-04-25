@@ -80,32 +80,7 @@ Random
 
 
 ``Quota``
-_(Correct:
-The correct answer is quota, because quota sampling is considered as a two stage restricted judgemental sampling which is adopted extensively in street interviewing.)_
-
-
-### 2. Question 2
-### The correct answer is quota, because quota sampling is considered as a two stage restricted judgemental sampling which is adopted extensively in street interviewing. 
-
-
-Quota  
-
-
-
-Snowball
-
-
-
-Judgemental  
-
-
-
-Convenience  
-
-
-
-Random  
-
+_(1: Khoanh vùng mẫu theo tiêu chí, 2: chọn người phù hợp để khảo sát)_
 
 
 ### 3. Question 3
@@ -113,9 +88,6 @@ Random
 
 
 ``True``
-_(Correct:
-This is true because non respondents may be different from respondents in terms of certain demographics such as, demographics, personality and perceptions. In case that the non respondents differ significantly with respondents it means that the sample is significantly biased. Increased response rates usually imply lower rates of non-response bias.)_
-
 
 False 
 
@@ -129,8 +101,6 @@ False
 
 
 ``True`` 
-_(Correct:
-This is true because in exponential discriminative snowball sampling the market researcher screens very carefully the individuals before accepting them in the final sample.)_
 
 
 False 
@@ -144,8 +114,6 @@ False
 
 
 ``Response``
-_(Correct:
-The correct answer is response because well trained researchers can enhance response rates and increase conversion and persuasion of key informants.)_
 
 
 Percentage  
