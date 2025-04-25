@@ -7,6 +7,7 @@ Questionnaires
 
 
 ``Incentives``
+_(phần thưởng, ưu đãi -> tăng tỉ lệ tham gia)_
 
 
 
