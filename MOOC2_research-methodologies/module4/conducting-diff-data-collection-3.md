@@ -41,5 +41,3 @@ Checking
 Replacing
 
 
-Correct
-In action research It is essential to construct the initiative with pertinent stakeholders and to produce and gather research data regarding an ongoing system that is relevant to an objective or a need or requirement; engaging with others in order to review the data which was collected. 
